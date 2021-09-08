@@ -7,7 +7,7 @@ conversion_opcodes = {
 'control_wait': 'time.sleep({DURATION})',
 'control_wait_until': 'while True:\n    if {CONDITION}:\n        break',
 'control_repeat_until': '',
-'control_while': '',
+'control_while': 'while True:\n   if not {CONTIDION}:\n       break ',
 'control_for_each': '',
 'control_start_as_clone': 'if {sprite}.clone_created:',
 'control_create_clone_of': '{sprite}_clone = {sprite}_object({sprite}.rect.center)\nsprite_list.add({sprite}_clone)\nsprite_list.update()\nclone_created = True',
