@@ -6,13 +6,10 @@ Please let me know if you would like to use this tool in the future, test it or 
 
 # Example Usage
 
-Download the sb3-to-py from github:
-
+git clone 
 ![Screen Shot 2020-12-18 at 8 10 17 PM](https://user-images.githubusercontent.com/62384447/102676767-1ab14d00-416d-11eb-86d3-28fe4ff37781.png)
 
-Unzip the file and open a terminal tab:
 
-![Screen Shot 2020-12-18 at 8 15 09 PM](https://user-images.githubusercontent.com/62384447/102676954-f6a23b80-416d-11eb-9233-2d14d6e05f2e.png)
 
 Convert a python file from a scratch file:
 
